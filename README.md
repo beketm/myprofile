@@ -47,4 +47,4 @@ Run website in a Docker container
 
 ## Demo
 
-![Alt Text]('Screenshot 2022-08-16 at 23-22-20 React App.png')
+![Alt Text](screenshot.png)
