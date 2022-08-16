@@ -16,7 +16,7 @@ HTML, CSS, JavaScript, React
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/beketm/myprofile
 ```
 
 Go to the project directory
@@ -47,4 +47,4 @@ Run website in a Docker container
 
 ## Demo
 
-![Alt Text](Screenshot 2022-08-16 at 23-22-20 React App.png)
+![Alt Text]('Screenshot 2022-08-16 at 23-22-20 React App.png')
